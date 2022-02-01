@@ -1,0 +1,19 @@
+{
+  "name": "microservice_archi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordandiazfr/microservice_archi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordandiazfr/microservice_archi/issues"
+  },
+  "homepage": "https://github.com/Jordandiazfr/microservice_archi#readme"
+}
