@@ -1,12 +1,12 @@
 {
+  "scriptFile": "__init__.py",
   "bindings": [
     {
-      "name": "mySbMsg",
+      "name": "msg",
       "type": "serviceBusTrigger",
       "direction": "in",
       "queueName": "myinputqueue",
       "connection": ""
     }
-  ],
-  "scriptFile": "../dist/bustrigger/index.js"
+  ]
 }
